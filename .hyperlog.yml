@@ -1,2 +1,2 @@
-malformed: true
-test a
+type: static
+entrypoint: index.html
